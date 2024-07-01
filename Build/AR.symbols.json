@@ -1,0 +1,10 @@
+{
+ "0": "emscripten_resize_heap",
+ "1": "stackSave",
+ "2": "stackRestore",
+ "3": "stackAlloc",
+ "4": "sbrk",
+ "5": "emscripten_stack_get_end",
+ "6": "emscripten_stack_get_base",
+ "7": "__wasm_call_ctors"
+}
